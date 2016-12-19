@@ -1,0 +1,11 @@
+en el archivo appKernel
+
+new Neurologia\TabsBundle\NeurologiaTabsBundle(),	//sacar dps
+
+
+y en el archivo routing general
+
+#Sacar luego la ruta a tabs
+neurologia_tabs:
+    resource: "@NeurologiaTabsBundle/Resources/config/routing.yml"
+    prefix:   /tabs

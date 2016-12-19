@@ -1,0 +1,10 @@
+http://gitnacho.github.io/symfony-docs-es/cookbook/doctrine/reverse_engineering.html
+
+Les dejo el link para hacer la ingenieria inversa para poder cargar la base de datos en symfony, lo que tienen q hacer es correr el .sql
+en el motor de base de datos y una vez que esta creada la bd corren en consola las lineas del link y eso les crea automaticamente 
+todas las entidades, yo igualmente voy a tratar de dejarlo en un bundle para que los vamyamos usando a medida que necesitemos,
+pero cada entidad va a estar en el bundle que corresponda luego, por ejemplo las entidades de los abm genericos van a estar en ese bundle
+y va a quedar una copia en BDBundle que es el que creo para que esten los repositorios originales.
+
+Detalle: La base de datos sin claves foraneas tiene algunos atributos que le faltan porque me los comi de las relaciones que despues
+estuve haciendo asi q si usan ese sql fijense en el modelo si tiene todos los atributos.

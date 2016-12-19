@@ -1,0 +1,256 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="3162" measuredH="807" mockupW="3133" mockupH="784">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="29" y="23" w="1203" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//neurologia</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::MenuBar" x="92" y="104" w="-1" h="-1" measuredW="154" measuredH="29" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>-1</selectedIndex>
+        <text>Inicio%2C%20Buscar%2C%20...</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="92" y="192" w="-1" h="-1" measuredW="129" measuredH="22" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>14</size>
+        <text>+%20Datos%20Personales</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="92" y="148" w="-1" h="-1" measuredW="120" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Rodriguez%2C%20Juan</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="51" y="266" w="488" h="485" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="71" y="274" w="-1" h="-1" measuredW="106" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>16</size>
+        <text>Historia%20clinica</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::HRule" x="90" y="340" w="411" h="-1" measuredW="100" measuredH="10" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::TabBar" x="565" y="243" w="636" h="508" measuredW="553" measuredH="100" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <selectedIndex>-1</selectedIndex>
+        <size>12</size>
+        <tabHPosition>left</tabHPosition>
+        <tabVPosition>top</tabVPosition>
+        <text>Antecedentes%2C%20Evolucion%2C%20Tratamientos%2C%20Diagnosticos%2C%20Estudios%2C%20Enfermedad%20actual%2C%20Motivo</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="212" y="305" w="-1" h="-1" measuredW="152" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Iniciar%20Historia%20Cl%EDnica</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Arrow" x="416" y="298" w="953" h="10" measuredW="150" measuredH="100" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>muestra%20el%20formulario</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Alert" x="1377" y="228" w="441" h="514" measuredW="200" measuredH="36" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Button" x="1435" y="694" w="-1" h="-1" measuredW="60" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enviar</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Button" x="1557" y="694" w="-1" h="-1" measuredW="66" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Limpiar</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Button" x="1692" y="694" w="-1" h="-1" measuredW="77" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cancelar</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="1413" y="266" w="-1" h="-1" measuredW="92" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*%20Atendido%20por%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Label" x="1413" y="326" w="-1" h="-1" measuredW="92" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*%20Derivado%20por%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="1413" y="382" w="-1" h="-1" measuredW="51" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*%20Motivo%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="1413" y="513" w="-1" h="-1" measuredW="126" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*%20Enfermedad%20Actual%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::TextArea" x="1557" y="513" w="235" h="120" measuredW="200" measuredH="140" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::ComboBox" x="1554" y="325" w="238" h="-1" measuredW="109" measuredH="24" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dermatolog%EDa</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::TextInput" x="1556" y="262" w="236" h="-1" measuredW="90" measuredH="27" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Usuario1234</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::StickyNote" x="1422" y="67" w="283" h="138" measuredW="109" measuredH="123" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>El%20campo%20Atendido%20por%20deber%EDa%20llenarce%20con%20el%20usuario%20que%20esta%20usando%20el%20sistema%20y%20no%20se%20podr%EDa%20modificar.%0ADerivado%20por%20es%20un%20combobox%2C%20con%20los%20diferentes%20departamentos.</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Label" x="1435" y="643" w="278" h="-1" measuredW="177" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*%20Los%20campos%20son%20obligatorios</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::TextArea" x="1556" y="382" w="235" h="120" measuredW="200" measuredH="140" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Arrow" x="1232" y="721" w="460" h="61" measuredW="150" measuredH="100" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <text>vualve%20a%20la%20pantalla%20anterior</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="1959" y="39" w="1203" h="768" measuredW="450" measuredH="400" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//neurologia</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::MenuBar" x="2022" y="120" w="-1" h="-1" measuredW="154" measuredH="29" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>-1</selectedIndex>
+        <text>Inicio%2C%20Buscar%2C%20...</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="2022" y="208" w="-1" h="-1" measuredW="129" measuredH="22" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>14</size>
+        <text>+%20Datos%20Personales</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Label" x="2022" y="164" w="-1" h="-1" measuredW="120" measuredH="24" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Rodriguez%2C%20Juan</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Canvas" x="1986" y="281" w="488" h="485" measuredW="100" measuredH="70" zOrder="29" locked="false" isInGroup="-1"/>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Label" x="2001" y="290" w="-1" h="-1" measuredW="106" measuredH="24" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>16</size>
+        <text>Historia%20clinica</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::TabBar" x="2495" y="259" w="636" h="508" measuredW="553" measuredH="100" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <selectedIndex>-1</selectedIndex>
+        <size>12</size>
+        <tabHPosition>left</tabHPosition>
+        <tabVPosition>top</tabVPosition>
+        <text>Antecedentes%2C%20Evolucion%2C%20Tratamientos%2C%20Diagnosticos%2C%20Estudios%2C%20Enfermedad%20actual%2C%20Motivo</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Arrow" x="1495" y="664" w="450" h="30" measuredW="150" measuredH="100" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <text>refleja%20los%20cambios</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Label" x="2003" y="326" w="100" h="-1" measuredW="94" measuredH="18" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>10</size>
+        <text>Enfermedad%20actual%3A</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Label" x="2233" y="326" w="100" h="-1" measuredW="34" measuredH="18" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>10</size>
+        <text>Motivo%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="2003" y="339" w="100" h="-1" measuredW="63" measuredH="18" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>10</size>
+        <text>Atendido%20por%3A</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="2233" y="339" w="100" h="-1" measuredW="63" measuredH="18" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>10</size>
+        <text>Derivado%20por%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Label" x="2132" y="326" w="100" h="-1" measuredW="36" measuredH="18" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Migra%F1a</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Label" x="2333" y="326" w="100" h="-1" measuredW="65" measuredH="18" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Dolores%20varios</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Label" x="2132" y="339" w="100" h="-1" measuredW="58" measuredH="18" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Usuario1234</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="2332" y="339" w="100" h="-1" measuredW="60" measuredH="18" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Dermatologia</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::HRule" x="2001" y="364" w="411" h="-1" measuredW="100" measuredH="10" zOrder="41" locked="false" isInGroup="-1"/>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::List" x="2001" y="403" w="462" h="301" measuredW="100" measuredH="126" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <text>1/10/2014%20-%20Paciente%3A%20Rodriguez%2C%20Juan%0A1/10/2014%20-%20Enfermedad%20actual%3A%20Migra%F1a%0A1/10/2014%20-%20Motivo%3A%20Dolores%20Varios%0A1/10/2014%20-%20Atendido%20por%3A%20Usuario1234%0A1/10/2014%20-%20Derivado%20por%3A%20Dermatologia</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Label" x="743" y="511" w="-1" h="-1" measuredW="299" measuredH="24" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <size>16</size>
+        <text>Inicie%20la%20Historia%20cl%EDnica%20para%20comenzar</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
